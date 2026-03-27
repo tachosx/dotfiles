@@ -42,7 +42,7 @@ Arch = "󰣇"
 
 [git_branch]
 format = '[$symbol$branch(:$remote_branch)]($style) '
-symbol = '🌱 '
+symbol = ' '
 
 [cmd_duration]
 format = '[⏱ $duration]($style)'
